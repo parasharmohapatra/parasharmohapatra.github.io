@@ -1,12 +1,12 @@
 :root {
-  --primaryBg: #ffffff;
+  --primaryBg: #fffdfa;
   --primaryText: #323335;
   --primaryLinks: #323335;
-  --secondaryBg: #ffffff;
+  --secondaryBg: #fffdfa;
   --secondaryText: #323335;
-  --secondaryLinks: #ffffff;
+  --secondaryLinks: #fffdfa;
   --shadow: #595659;
   --cardBg: #323335;
-  --cardText: #ffffff;
-  --cardLink: #ffffff;
+  --cardText: #fffdfa;
+  --cardLink: #fffdfa;
 }
